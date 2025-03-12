@@ -1,0 +1,13 @@
+git clonehttps://github.com/NSDSekar/sekar.git
+cd sekar
+ git status
+create a new file on git 
+ git add test2.txt
+ git status
+git commit -m "test2.txt file added"
+git push origin main
+
+
+git config --global user.name"NSDSekar"
+
+git config --global user.email"sekarlearnaws@gmail.com"
