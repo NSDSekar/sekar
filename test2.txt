@@ -6,7 +6,7 @@ create a new file on git
  git status
 git commit -m "test2.txt file added"
 git push origin main
-
+git pull
 
 git config --global user.name"NSDSekar"
 
